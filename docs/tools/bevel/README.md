@@ -49,7 +49,7 @@ sudo apt-get update
 sudo apt install docker
 ```
 
-### Setting your Hashicorop Vault
+### Installing Hashicorop Vault
 We need Hashicorp Vault for Secure storage of the certificate and private keyes
 1.	Vault can be installed using these commands on Ubuntu.
 ```
@@ -84,7 +84,7 @@ listener "tcp" {
 <p align="center"><img src="/docs/tools/bevel/Images/Vault-Homepage.png"width=75%> </p>
 
 
-### Setting up Minikube
+### Installing Minikube
 Minikube can be used as the Kubernetes cluster on which the DLT network will be deployed.
 -	Minikube can be installed using these commands on Ubuntu.
 ```
